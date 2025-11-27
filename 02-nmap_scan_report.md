@@ -125,10 +125,3 @@ Este laboratorio permitió:
 * Realizar un escaneo selectivo con Nmap.
 * Analizar servicios expuestos de forma segura.
 * Identificar riesgos comunes sin exponer información real.
-* Documentar hallazgos de forma profesional.
-
-Este formato es ideal para un portfolio técnico, mostrando:
-
-* Buenas prácticas.
-* Conocimientos de enumeración.
-* Capacidad de análisis.
