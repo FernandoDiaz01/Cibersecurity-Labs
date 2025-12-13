@@ -2,7 +2,7 @@
 
 Hola 👋, soy **Fernando Díaz** y este repositorio reúne mis **laboratorios prácticos de Ciberseguridad**, orientados a un perfil **SOC Trainee / Junior**.
 
-El objetivo de este espacio es **demostrar habilidades técnicas reales**, criterio de análisis y buenas prácticas profesionales aplicadas a escenarios de laboratorio.
+El objetivo de este espacio es **demostrar habilidades técnicas reales**, criterio de análisis y buenas prácticas profesionales aplicadas a escenarios de laboratorio, con un enfoque orientado a **SOC Trainee / Junior** y también a **Pentesting**.
 
 ---
 
@@ -80,7 +80,7 @@ Este repositorio refleja un enfoque equilibrado:
 ## 📫 Contacto
 
 * GitHub: [FernandoDiaz01](https://github.com/FernandoDiaz01)
-* LinkedIn: [](https://www.linkedin.com/in/fernandodiaz01/)
+* LinkedIn: *(opcional)*
 
 ---
 
