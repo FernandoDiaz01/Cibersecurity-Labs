@@ -1,0 +1,30 @@
+
+
+# Sistema de Control de Activos "Sentinel"
+
+## Resumen Ejecutivo
+El proyecto **Sentinel** es una solución de auditoría y monitoreo continuo diseñada para eliminar los puntos ciegos en la infraestructura tecnológica de la compañía. Su implementación garantiza la identificación absoluta de cada equipo en las instalaciones, asegurando que solo el hardware autorizado opere en el entorno.
+
+## 🛡️ Pilares de Protección Operativa
+Sentinel transforma la red en un perímetro inteligente mediante tres capacidades clave:
+
+* **Validación de Identidad de Hardware:** Coteja la "huella digital" única de cada dispositivo contra una base de datos oficial. Ante equipos no registrados, genera una alerta de intrusión inmediata.
+* **Clasificación de Activos en Tiempo Real:** Detecta automáticamente la naturaleza del dispositivo (servidores, cámaras, móviles, etc.) para identificar hardware externo no homologado en áreas restringidas.
+* **Auditoría de Puntos de Acceso:** Diagnóstico constante de las "vías de entrada" digitales para prevenir brechas en sistemas críticos como videovigilancia o controles biométricos.
+
+## 📝 Registro de Actividad y Trazabilidad
+El sistema mantiene un **Libro de Novedades Digital** inalterable, vital para la reconstrucción de eventos y el cumplimiento normativo.
+
+**Ejemplo de incidencia detectada:**
+> `[ALERTA] Detección de Activo No Autorizado. Sector: Planta Alta / Administración. Detalle: Terminal móvil no registrado.` 
+
+## 🏗️ Impacto en la Seguridad Física
+Sentinel potencia directamente la efectividad operativa mediante:
+1.  **Detección de Intrusos Perimetrales:** Identifica intentos de conexión desde el exterior, permitiendo una respuesta física preventiva.
+2.  **Protección de la Propiedad:** Funciona como un inventario dinámico que notifica en segundos si un equipo es desconectado o removido.
+3.  **Higiene Operativa:** Asegura que los dispositivos de seguridad (cámaras y sensores) se mantengan aislados y protegidos contra manipulaciones externas.
+
+## Conclusión
+Sentinel otorga al equipo de Seguridad Física la capacidad de "ver" lo invisible, convirtiendo una red pasiva en un sistema de vigilancia activo, profesional e integral.
+
+<video src="img/demo-sentinel.mp4" width="600" controls title="Demostración de Auditoría"></video>
