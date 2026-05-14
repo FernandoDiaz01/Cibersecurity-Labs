@@ -1,87 +1,57 @@
-# 🛡️ Cibersecurity Labs – Portfolio
+🛡️ Cibersecurity & SOC Portfolio
+Hola 👋, soy Fernando Díaz. Este repositorio compila mis proyectos de infraestructura segura, auditoría y laboratorios prácticos, orientados a la Defensa Activa y Operaciones de Seguridad (SOC).
 
-Hola 👋, soy **Fernando Díaz** y este repositorio reúne mis **laboratorios prácticos de Ciberseguridad**, orientados a un perfil **SOC Trainee / Junior**.
+Mi enfoque combina una mentalidad ofensiva para identificar riesgos con la capacidad técnica para implementar controles defensivos y hardening de sistemas.
 
-El objetivo de este espacio es **demostrar habilidades técnicas reales**, criterio de análisis y buenas prácticas profesionales aplicadas a escenarios de laboratorio, con un enfoque orientado a **SOC Trainee / Junior** y también a **Pentesting**.
+🚀 Proyectos Destacados (Real World Scenarios)
+Sentinel - Sistema de Control de Activos: Desarrollo de una herramienta de auditoría para la identificación de hardware no autorizado y eliminación de puntos ciegos en la red.
 
+Fortalecimiento de Seguridad y Segmentación: Diseño e implementación de VLANs para aislar activos críticos (monitoreo) y reducir la superficie de ataque.
+
+Phishing Awareness (ISO 27001): Ejecución de campañas de ingeniería social controladas y desarrollo de landing pages educativas para la gestión de riesgos humanos.
+
+🧠 Habilidades Técnicas
+Defensa SOC: Monitoreo de activos, triaje de incidentes y análisis de registros.
+
+Hardening e Infraestructura: Segmentación de redes, configuración de firewalls y aseguramiento de redes inalámbricas.
+
+Seguridad Ofensiva: Pentesting básico, análisis de vulnerabilidades y metodologías OWASP/MITRE ATT&CK.
+
+Cumplimiento Normativo: Aplicación de controles basados en el estándar ISO/IEC 27001.
+
+🧰 Stack Tecnológico
+Defensa y Monitoreo (Blue Team)
+SIEM/XDR: Wazuh.
+
+Vulnerability Management: Nessus.
+
+Networking & Analysis: Wireshark, Nmap, TCP/IP, DNS.
+
+Asset Discovery: Sentinel (Desarrollo propio).
+
+Análisis Ofensivo (Red Team)
+Sistemas: Kali Linux, Debian.
+
+Web & Network: Burp Suite, Gobuster, Metasploit, Nikto.
+
+🔍 Laboratorios Incluidos
+Análisis ARP: Auditoría de tráfico de capa 2 para detección de dispositivos.
+
+Escaneo de Superficie de Ataque: Reportes detallados de reconocimiento con Nmap.
+
+Enumeración Web: Identificación de directorios y configuraciones inseguras.
+
+🔐 Ética y Alcance
+Todas las pruebas fueron realizadas en entornos de laboratorio o bajo autorización formal en contextos profesionales.
+
+La información sensible de terceros ha sido estrictamente anonimizada.
+
+📫 Contacto
+
+LinkedIn: linkedin.com/in/fernandodiaz01   
+
+
+GitHub: FernandoDiaz01   
+
+🛡️ En constante formación para fortalecer la resiliencia organizacional.
 ---
-
-## 🎯 Objetivo del repositorio
-
-* Consolidar conocimientos en **ciberseguridad defensiva y ofensiva básica**
-* Practicar análisis desde una **perspectiva SOC**
-* Documentar procesos técnicos de forma **clara, ética y reproducible**
-* Construir un **portfolio profesional** para búsquedas laborales
-
----
-
-## 🧠 Habilidades demostradas
-
-* OSINT técnico (WHOIS, DNS)
-* Análisis de superficie de ataque
-* Reconocimiento web (defensivo y ofensivo)
-* Enumeración de directorios y subdominios
-* Inspección de headers HTTP/HTTPS
-* Identificación de configuraciones inseguras
-* Pensamiento ofensivo aplicado a la detección de riesgos
-* Documentación técnica clara y reproducible
-* Ética y responsabilidad profesional
-
----
-
-## 🧰 Herramientas utilizadas
-
-* Kali Linux
-* Nmap
-* DIRB / Dirsearch
-* Gobuster
-* Knockpy
-* Nikto
-* curl
-* Metasploitable
-* Mutillidae
-* Servicios WHOIS
-
----
-
-## 🔍 Tipo de laboratorios incluidos
-
-* Reconocimiento web
-* Análisis de configuraciones HTTP/TLS
-* Enumeración de directorios
-* OSINT y análisis WHOIS
-* Subdomain discovery
-* Prácticas en entornos vulnerables controlados
-
----
-
-## 🔐 Ética y alcance
-
-* Todas las pruebas fueron realizadas **exclusivamente en entornos de laboratorio**
-* La información sensible fue **anonimizada**
-* No se realizaron ataques a sistemas productivos
-* Contenido con fines **educativos y formativos**
-
----
-
-## 🚀 Enfoque profesional
-
-Me interesa especialmente la **seguridad ofensiva** (pentesting y reconnaissance), aplicada con criterio y responsabilidad para **mejorar la postura defensiva** de los sistemas.
-
-Este repositorio refleja un enfoque equilibrado:
-
-* Pensamiento ofensivo para descubrir debilidades
-* Mentalidad SOC para analizar impacto y riesgo
-* Documentación clara para escalar hallazgos
-* Respeto por principios éticos y legales
-
----
-
-## 📫 Contacto
-
-* GitHub: [FernandoDiaz01](https://github.com/FernandoDiaz01)
-* LinkedIn: *www.linkedin.com/in/fernandodiaz01*
-
----
-
-🛡️ *En constante aprendizaje y mejora continua en el área de Ciberseguridad.*
