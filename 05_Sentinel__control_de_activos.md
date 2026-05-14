@@ -29,4 +29,7 @@ Sentinel otorga al equipo de Seguridad Física la capacidad de "ver" lo invisibl
 
 ## 📹 Demostración de Auditoría
 
-![demo-sentinel](img/demo-sentinel.mp4)
+<video width="640" height="480" controls>
+  <source src="img/demo-sentinel.mp4" type="video/mp4">
+  Tu navegador no soporta HTML5 video.
+</video>
