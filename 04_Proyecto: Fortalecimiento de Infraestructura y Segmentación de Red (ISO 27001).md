@@ -1,7 +1,7 @@
 # Fortalecimiento de Seguridad Digital – Sala de Monitoreo
 
 ## Descripción del Proyecto
-Este proyecto detalla la intervención técnica realizada en la infraestructura de red de una empresa de seguridad física para mitigar vulnerabilidades críticas. El objetivo principal fue transicionar desde una arquitectura de red plana y expuesta hacia un modelo segmentado con controles de acceso granulares.
+Este proyecto detalla la intervención técnica realizada en la infraestructura de red de una empresa de seguridad física para mitigar vulnerabilidades críticas. El objetivo principal fue transicionar desde un modelo de red plana sin controles hacia una arquitectura segmentada y monitoreada bajo estándares ISO 27001.
 
 ## 1. Diagnóstico de la Infraestructura Inicial
 Se identificó una red inalámbrica de uso general donde coexistían sin restricciones:
@@ -33,6 +33,6 @@ El proyecto se diseñó bajo los controles de la norma **ISO/IEC 27001**, fortal
 * **Seguridad:** Hardening de Redes, ISO 27001.
 * **Auditoría:** Sentinel (Asset Discovery).
 
-## 📹 Demostración de Auditoría
+## 📷 Diagrama de Segmentación
 
-<video src="img/demo-sentinel.mp4" width="100%" controls></video>
+![Segmentación VLAN](img/segmentacionVLAN.png)
