@@ -80,7 +80,7 @@ Este repositorio refleja un enfoque equilibrado:
 ## 📫 Contacto
 
 * GitHub: [FernandoDiaz01](https://github.com/FernandoDiaz01)
-* LinkedIn: *(opcional)*
+* LinkedIn: *www.linkedin.com/in/fernandodiaz01*
 
 ---
 
