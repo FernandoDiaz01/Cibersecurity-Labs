@@ -35,4 +35,4 @@ El proyecto se diseñó bajo los controles de la norma **ISO/IEC 27001**, fortal
 
 ## 📹 Demostración de Auditoría
 
-![demo-sentinel](img/demo-sentinel.mp4)
+<video src="img/demo-sentinel.mp4" width="100%" controls></video>
